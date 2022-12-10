@@ -1,0 +1,61 @@
+.card {
+    /* Add shadows to create the "card" effect */
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+  }
+  
+  /* On mouse-over, add a deeper shadow */
+  .card:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+  }
+  
+  /* Add some padding inside the card container */
+  .container {
+    padding: 2px 16px;
+  }
+
+.h1-style{
+    color: #42032C;
+}
+
+
+.center {
+    text-align: center;
+}
+
+.h1-style2{
+    color: #D36B00;
+}
+.li-class-size{
+    font-size: 23px;
+}
+.img-size{
+    width: 340px;
+    height: 355px
+}
+
+.margin-nav{
+    margin: -22px;
+    width: 100px;
+}
+
+ul {
+    text-align: center;
+    list-style-position: inside;
+}
+
+.article{
+float: left;
+
+}
+
+.vitrin {
+    background: yellow;
+    margin-left: 130px;
+    padding: auto;
+
+}
+.products {
+    margin-top: 100px;
+    padding: auto;
+}
